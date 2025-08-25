@@ -1,0 +1,3 @@
+My name is Virajetha Vulli
+I'm from Bsc Data Science
+GitHub helps to develop the projects with all the team members without individually sending them the url of the projects, they all can work on the projects with just connecting through GitHub.
